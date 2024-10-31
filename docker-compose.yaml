@@ -6,6 +6,8 @@ services:
     image: covertovert:latest
     hostname: receiver
     container_name: receiver
+    depends_on:
+      - "client"
     privileged: true
     cap_add:
       - NET_ADMIN

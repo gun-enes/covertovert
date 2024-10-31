@@ -6,8 +6,7 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
-
+Enes Gun - Muzeyyen Simay Gumus - Group ID: 73
 
 .. toctree::
    :maxdepth: 2
